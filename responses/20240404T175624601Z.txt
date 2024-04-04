@@ -1,0 +1,108 @@
+Sure, here's the information in JSON format for the visible hotels:\n" +
+      '\n' +
+      '```json\n' +
+      '[\n' +
+      '    {\n' +
+      '        "hotel_name": "Hampton Inn & Suites by Hilton Calgary- University Northwest",\n' +
+      '        "nightly_rate": "$73",\n' +
+      '        "rating": "4.2 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Fairmont Palliser",\n' +
+      '        "nightly_rate": "$249",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Best Western Premier Calgary Plaza Hotel & Conference Centre",\n' +
+      '        "nightly_rate": "$76",\n' +
+      '        "rating": "4.1 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Holiday Inn Calgary Airport, an IHG Hotel",\n' +
+      '        "nightly_rate": "$63",\n' +
+      '        "rating": "3.9 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Le Germain Hotel Calgary",\n' +
+      '        "nightly_rate": "$206",\n' +
+      '        "rating": "4.7 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Riviera Plaza and Conference Centre Calgary Airport",\n' +
+      '        "nightly_rate": "$45",\n' +
+      '        "rating": "3.5 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "The Dorian, Autograph Collection",\n' +
+      '        "nightly_rate": "$206",\n' +
+      '        "rating": "4.7 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Hyatt Regency Calgary",\n' +
+      '        "nightly_rate": "$220",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "The Westley Calgary Downtown, Tapestry Collection by Hilton",\n' +
+      '        "nightly_rate": "$248",\n' +
+      '        "rating": "4.6 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Best Western Premier Freeport Inn Calgary Airport",\n' +
+      '        "nightly_rate": "$87",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Calgary Marriott Downtown Hotel",\n' +
+      '        "nightly_rate": "$247",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Sheraton Suites Calgary Eau Claire",\n' +
+      '        "nightly_rate": "$242",\n' +
+      '        "rating": "4.5 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "The Westin Calgary",\n' +
+      '        "nightly_rate": "$270",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Radisson Hotel & Conference Centre Calgary Airport",\n' +
+      '        "nightly_rate": "$77",\n' +
+      '        "rating": "4.3 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Sandman Signature Calgary Downtown Hotel",\n' +
+      '        "nightly_rate": "$102",\n' +
+      '        "rating": "4.1 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Grey Eagle Resort and Casino",\n' +
+      '        "nightly_rate": "$141",\n' +
+      '        "rating": "4.4 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Sheraton Cavalier Calgary Hotel",\n' +
+      '        "nightly_rate": "$131",\n' +
+      '        "rating": "4.2 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Residence Inn by Marriott Calgary Downtown/Beltline District",\n' +
+      '        "nightly_rate": "$179",\n' +
+      '        "rating": "4.8 out of 5"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Jr. Penthouse Style DT Condo next Door to Bmo Center/Stampede",\n' +
+      '        "nightly_rate": "$111",\n' +
+      '        "rating": "New - no review yet"\n' +
+      '    },\n' +
+      '    {\n' +
+      '        "hotel_name": "Brother Li Homestay",\n' +
+      '        "nightly_rate": "$52",\n' +
+      '        "rating": "No rating visible"\n' +
+      '    }\n' +
+      ']\n' +
+      '```\n' +
+      '\n' +
+      'Please note that for the last entry, "Brother Li Homestay," the rating is not visible in the screenshot you provided, so I included a placeholder text. For "Jr. Penthouse Style DT Condo next Door to Bmo Center/Stampede," it is mentioned as "New - no review yet." Since this is an exact representation of the available data, the format and details presented are as shown in your image, including the dollar signs ($) with the nightly rate. Always double-check the latest prices and ratings from the actual source as they can change frequently.'
