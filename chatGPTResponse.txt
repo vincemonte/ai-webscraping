@@ -1,0 +1,184 @@
+```json
+[
+    {
+        "title": "Example Hotel 1",
+        "nightly_rate": "$150",
+        "rating": 4.5
+    },
+    {
+        "title": "Sample Resort 2",
+        "nightly_rate": "$200",
+        "rating": 4.2
+    },
+    {
+        "title": "Test Inn 3",
+        "nightly_rate": "$120",
+        "rating": 4.7
+    }
+]
+``````json
+{
+    "items": [
+        {
+            "title": "KAYAK for Business",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Argentina",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Australia",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Belgique (Français)",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "België (Nederlands)",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Bolivia",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Brasil",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Canada (English)",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Canada (Français)",
+            "nightly_rate": "",
+            "rating": "",
+        },
+        {
+            "title": "Chile",
+            "nightly_rate": "",
+            "rating": "",
+        }
+    ]
+}
+``````json
+{
+    "title": "United States (English)",
+    "items": []
+}
+``````json
+{
+    "items": [
+        {
+            "title": "Cheap Flights to Paris",
+            "nightly_rate": "$200",
+            "rating": "4.5 out of 5"
+        },
+        {
+            "title": "Luxury Resort in Bali",
+            "nightly_rate": "$500",
+            "rating": "5 out of 5"
+        },
+        {
+            "title": "Budget Hotel in New York City",
+            "nightly_rate": "$150",
+            "rating": "3 out of 5"
+        }
+    ]
+}
+```  ```json
+{
+    "items": [
+        {
+            "title": "Kayak Flights, Hotels & Cars",
+            "nightly_rate": "N/A",
+            "rating": "4.8"
+        },
+        {
+            "title": "Download on the App Store",
+            "nightly_rate": "N/A",
+            "rating": "N/A"
+        }
+    ]
+}
+```{
+  "title": "KAYAK",
+  "nightly_rate": "",
+  "rating": ""
+}```json
+{
+    "title": "KAYAK: Compare Flights, Hotels & Car Hire",
+    "nightly_rate": "$246",
+    "rating": "4.1"
+}
+```{
+    "title": "KAYAK - Compare hotel prices and find amazing vacation deals",
+    "items": [
+        {
+            "title": "Marina Bay Sands",
+            "nightly_rate": "$340",
+            "rating": "9.0"
+        },
+        {
+            "title": "Mandarin Oriental, Singapore",
+            "nightly_rate": "$250",
+            "rating": "8.5"
+        },
+        {
+            "title": "The Ritz-Carlton, Millenia Singapore",
+            "nightly_rate": "$320",
+            "rating": "8.8"
+        }
+    ]
+}{
+    "items": [
+        {
+            "title": "Hotel ABC",
+            "rate": "200",
+            "nightly": "$150",
+            "rating": 4.5
+        },
+        {
+            "title": "Hotel XYZ",
+            "rate": "180",
+            "nightly": "$120",
+            "rating": 4.2
+        }
+    ]
+}```json
+{
+    "items": [
+        {
+            "title": "Hotel ABC",
+            "nightly_rate": "$150",
+            "rating": 8.5
+        },
+        {
+            "title": "Resort XYZ",
+            "nightly_rate": "$200",
+            "rating": 9.0
+        },
+        {
+            "title": "Beach Inn",
+            "nightly_rate": "$120",
+            "rating": 7.8
+        }
+    ]
+}
+```  ```json
+{
+    "title": "hotel1",
+    "nightly_rate": "$200",
+    "rating": 4.5
+}
+```
